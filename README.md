@@ -1,4 +1,5 @@
-# Flisol2019 Workshop
+# Flisol2019 Workshop y Ponencia
 ## 26/04/2019 - Trujillo, Peru
 
-yeiy
+* Material: diapositivas y jupyter notebook
+* Guide: Como instalar jupyter notebook en un SO GNU/LINUX
